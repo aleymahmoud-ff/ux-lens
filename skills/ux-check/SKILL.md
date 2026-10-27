@@ -1,9 +1,11 @@
 ---
-name: nielsen-heuristics
+name: ux-check
 description: Apply Nielsen's 10 usability heuristics when building or reviewing any user interface (web, app, dashboard, form, CLI output). Use when creating UI code, reviewing a screen or component, or when asked for a usability or heuristic review.
 ---
 
-# Nielsen's 10 Usability Heuristics
+# UX Check
+
+Built on the foundation of [Nielsen's Heuristics - The Decision Lab](https://thedecisionlab.com/reference-guide/design/nielsens-heuristics), covering Jakob Nielsen's 10 usability heuristics.
 
 Rules of thumb for user-friendly interfaces (Jakob Nielsen, 1994). They are general guidance, not hard rules. A heuristic review finds likely problems early; it does not replace testing with real users.
 
