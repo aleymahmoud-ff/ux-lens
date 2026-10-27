@@ -1,9 +1,9 @@
 ---
-name: ux-check
+name: ux-lens
 description: Apply Nielsen's 10 usability heuristics when building or reviewing any user interface (web, app, dashboard, form, CLI output). Use when creating UI code, reviewing a screen or component, or when asked for a usability or heuristic review.
 ---
 
-# UX Check
+# UX Lens
 
 Built on the foundation of [Nielsen's Heuristics - The Decision Lab](https://thedecisionlab.com/reference-guide/design/nielsens-heuristics), covering Jakob Nielsen's 10 usability heuristics.
 
